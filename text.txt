@@ -1,6 +1,10 @@
 new work
 #new work
 #new work
+<<<<<<< HEAD
 hello world
 
 abcdefg
+=======
+hello world
+>>>>>>> 69f17017bf62ccbbd2f02475fc272db2f3f69c55
